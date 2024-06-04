@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: dentakunet0314
+    name: rekisi-goroawase
     env: python
     region: Oregon
     plan: free
